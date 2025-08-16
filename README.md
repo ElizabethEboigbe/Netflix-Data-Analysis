@@ -7,9 +7,7 @@ An interactive **Excel dashboard** was built with slicers and KPIs to allow dyna
 ##  Dataset
 - <a href="https://github.com/ElizabethEboigbe/Netflix-Data-Analysis/blob/main/netflix_titles%20copy.xlsx">Raw Dataset</a>
 - <a href="https://github.com/ElizabethEboigbe/Netflix-Data-Analysis/blob/main/netflix%20Data.xlsx">Analysis dataset</a>
-- **Size**: ~8,800 rows × 12 columns  
-- **Description**: Dataset contains information about Netflix movies and TV shows, including cast, director, country, date added, release year, rating, duration, and listed genres.
-
+ 
 ##  Tools & Skills Used
 - **Excel**: Power Query, Power Pivot, Pivot Tables, Slicers, KPIs, Dashboard Design  
 - **Data Cleaning**: Handling missing values, categorization  
@@ -17,7 +15,8 @@ An interactive **Excel dashboard** was built with slicers and KPIs to allow dyna
 - **Visualization**: Interactive dashboard with charts and slicers  
 
 ##  Dashboard Preview
-![Netflix Dashboard](dashboard.png)  
+ <img width="1321" height="428" alt="netflix_dashboard png" src="https://github.com/user-attachments/assets/45d13669-9af0-4c26-93bb-156101f1d997" />
+ 
  
 
 ##  View the Interactive Dashboard
