@@ -5,7 +5,7 @@ This project analyzes Netflix content to uncover insights such as top countries 
 An interactive **Excel dashboard** was built with slicers and KPIs to allow dynamic exploration of the dataset.  
 
 ##  Dataset
-- **Source**: [Netflix Titles Dataset](https://www.kaggle.com/shivamb/netflix-shows)  
+- **Source**: [Netflix Titles Dataset](https://www.kaggle.com/shivamb/netflix-shows)
 - **Size**: ~8,800 rows × 12 columns  
 - **Description**: Dataset contains information about Netflix movies and TV shows, including cast, director, country, date added, release year, rating, duration, and listed genres.
 
