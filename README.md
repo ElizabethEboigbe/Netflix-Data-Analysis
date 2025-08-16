@@ -1,62 +1,32 @@
-# Netflix Data Analysis
+# Netflix Data Analysis & Dashboard
 
-Data analysis project exploring Netflix content trends using Excel and Power BI
+##  Project Overview
+This project analyzes Netflix content to uncover insights such as top countries with the most content, popular directors and actors, content duration trends, and genre distribution.  
+An interactive **Excel dashboard** was built with slicers and KPIs to allow dynamic exploration of the dataset.  
 
-\# Netflix Data Analysis
+##  Dataset
+- **Source**: [Netflix Titles Dataset](https://www.kaggle.com/shivamb/netflix-shows)  
+- **Size**: ~8,800 rows × 12 columns  
+- **Description**: Dataset contains information about Netflix movies and TV shows, including cast, director, country, date added, release year, rating, duration, and listed genres.
 
+##  Tools & Skills Used
+- **Excel**: Power Query, Power Pivot, Pivot Tables, Slicers, KPIs, Dashboard Design  
+- **Data Cleaning**: Handling missing values, categorization  
+- **Data Analysis**: Trend analysis, ranking, aggregation  
+- **Visualization**: Interactive dashboard with charts and slicers  
 
+##  Dashboard Preview
+![Netflix Dashboard](dashboard.png)  
+ 
 
-\## Project Overview
+##  View the Interactive Dashboard
+-  [Download Excel Dashboard](Netflix_Dashboard.xlsx)  
+ 
+##  Analysis & Insights
+- **Top Country by Content**: [United States]  
+- **Most Featured Director**: [Rajiv Chilaka]  
+- **Popular Actors/Actresses**: [Anupam Kher]  
+- **Content Duration Breakdown**: [90–120 min duration range]  
+- **Top  Genres**: [Drama and International Movies]
 
-This project explores trends in Netflix content using Excel and Power BI.  
-
-The goal is to uncover insights such as:
-
-\- Top countries by Netflix content type
-
-\- Most featured directors and actors
-
-\- Netflix movie duration breakdown
-
-\- Top Netflix genres
-
-
-
-\## Tools Used
-
-\- Microsoft Excel
-
-\- Power BI
-
-
-
-\## Key Insights
-
-1\. Identified the countries with the highest number of Netflix movies and shows.
-
-2\. Highlighted the most featured directors and actors on Netflix.
-
-3\. Analyzed the distribution of movie durations.
-
-4\. Revealed the most popular Netflix genres.
-
-
-
-\## Dashboard
-
-The interactive dashboard allows filtering by multiple categories to uncover trends quickly.  
-
-\[Netflix dashboard screenshot](Netflix dashboard.png)
-
-\[view interactive dashboard](https://1drv.ms/x/c/9d598a2655a2ab37/EQp6Uxkz53dPlR42xNKuHDsBScnC-DLvZvqZ2MABLtv0nA??web=1) 
-
-
-
-\## Project Status
-
-Completed — interactive dashboard is available in the repository.
-
-
-
-
-
+ 
