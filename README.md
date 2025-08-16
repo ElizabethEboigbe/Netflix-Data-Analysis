@@ -19,9 +19,6 @@ An interactive **Excel dashboard** was built with slicers and KPIs to allow dyna
  
  
 
-##  View the Interactive Dashboard
--  [Download Excel Dashboard](Netflix_Dashboard.xlsx)  
- 
 ##  Analysis & Insights
 - **Top Country by Content**: [United States]  
 - **Most Featured Director**: [Rajiv Chilaka]  
